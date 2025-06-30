@@ -4,7 +4,7 @@
 
 ## Who am I really ?
 
-**I love and I'm passionate about data and statistics.**  
+**I love and I'm passionate about data and statistics.**
 As a result I'm a **Data Scientist** by profession with about **3 Years professional experience** in shipping, insurance, air cargo and customer service industry.  
 I develop, test and deploy customer focused solutions leveraging industry data with the help of **data analysis**, **machine learning** models or case specific **AI** solutions.  
 **I love debugging and developing end to end backend pipelines.**
