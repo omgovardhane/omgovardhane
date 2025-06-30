@@ -13,7 +13,7 @@ I develop, test and deploy customer focused solutions leveraging industry data w
 
 ## Professional Technical Skills
 
-####**![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)**
+##### **![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)**
 #### **![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)**
 #### **![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)**
 #### **![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)**
