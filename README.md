@@ -22,8 +22,8 @@ Develope, deploye and maintain
 - Automate repeatitive reports
 - Documentation
 
-I supplement these processes with Git, Docker and Azure.
-Work with **structured** and **unstructured** data and perform EDA to make better decisions with valuable data.
+I supplement these processes with Git, Docker and Azure.  
+Work with **structured** and **unstructured** data and perform EDA to make better decisions with valuable data.  
 Collaborate with cross functional teams and clients.
 
 ---
