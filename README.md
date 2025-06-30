@@ -13,7 +13,9 @@ I develop, test and deploy customer focused solutions leveraging industry data w
 
 ## What have I done and can do ?
 
-Develope, deploye and maintain - ML models - APIs with Flask, FastAPI
+Develope, deploye and maintain 
+- ML models
+- APIs with Flask, FastAPI
             
 
 
