@@ -14,12 +14,17 @@ I develop, test and deploy customer focused solutions leveraging industry data w
 ## What have I done and can do ?
 
 Develope, deploye and maintain 
-- ML models
-- APIs with Flask, FastAPI
-            
+- ML models (such as sentiment analysis, text contextualization(NLP), classification)
+- APIs with Flask, FastAPI 
+- End to end ML pipelines
+- Custom AI solutions 
+- Docker
+- Automate repeatitive reports
+- Documentation
 
-
-
+I supplement these processes with Git, Docker and Azure.
+Work with **structured** and **unstructured** data and perform EDA to make better decisions with valuable data.
+Collaborate with cross functional teams and clients.
 
 ---
 
@@ -39,6 +44,12 @@ Develope, deploye and maintain
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-gov/)
 
 <!--
 **omgovardhane/omgovardhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
